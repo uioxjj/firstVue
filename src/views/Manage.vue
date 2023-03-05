@@ -62,5 +62,3 @@
       }
   </style>
    
-  <style src="wowjs/css/libs/animate.css"></style>
-   

@@ -69,7 +69,6 @@
 import { waterFall } from '@/function/waterFall';
 import { WOW } from 'wowjs'
 
-
 export default {
   name: 'HomeView',
   components: {
@@ -206,5 +205,3 @@ body {
   font-size: 14px;
 }
 </style>
-
-<style src="wowjs/css/libs/animate.css"></style>

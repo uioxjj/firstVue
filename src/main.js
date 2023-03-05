@@ -5,6 +5,7 @@ import store from "./store";
 import ElementPlus from "element-plus";
 import "element-plus/dist/index.css";
 import cssDoodle from "css-doodle";
+import 'wowjs/css/libs/animate.css';
 import gsap from "gsap";
 import * as ElementPlusIconsVue from "@element-plus/icons-vue";
 import axios from "axios";
